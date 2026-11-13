@@ -1,0 +1,23 @@
+{
+  "idler": {
+    "heartbeatInterval": 300,
+    "autoReconnect": true,
+    "maxReconnectAttempts": 0,
+    "reconnectDelay": 5000,
+    "loginDelay": 3000,
+    "autoRequestFreeLicenses": true,
+    "afkMessage": "I'm currently AFK. Will reply when I'm back!",
+    "proxy": ""
+  },
+  "loginRetry": {
+    "maxRetries": 5,
+    "baseDelay": 5000,
+    "maxDelay": 300000,
+    "rateLimitMultiplier": 3
+  },
+  "logging": {
+    "level": "info",
+    "color": "auto",
+    "format": "pretty"
+  }
+}
