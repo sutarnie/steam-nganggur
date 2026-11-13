@@ -1,0 +1,97 @@
+{
+  "alwaysIdle": [
+    4732690,
+    4195600
+  ],
+  "batches": [
+    {
+      "id": 1,
+      "name": "CS2",
+      "appIds": [730],
+      "minDurationHours": 20,
+      "maxDurationHours": 24,
+      "minDurationMinutes": 0,
+      "maxDurationMinutes": 0,
+      "personaState": 7
+    },
+    {
+      "id": 2,
+      "name": "Dota 2",
+      "appIds": [570],
+      "minDurationHours": 14,
+      "maxDurationHours": 18,
+      "minDurationMinutes": 0,
+      "maxDurationMinutes": 0,
+      "personaState": 6
+    },
+    {
+      "id": 3,
+      "name": "TF2",
+      "appIds": [440],
+      "minDurationHours": 12,
+      "maxDurationHours": 16,
+      "minDurationMinutes": 0,
+      "maxDurationMinutes": 0,
+      "personaState": 1
+    },
+    {
+      "id": 4,
+      "name": "Rust",
+      "appIds": [252490],
+      "minDurationHours": 8,
+      "maxDurationHours": 12,
+      "minDurationMinutes": 0,
+      "maxDurationMinutes": 0
+    },
+    {
+      "id": 5,
+      "name": "PUBG",
+      "appIds": [578080],
+      "minDurationHours": 6,
+      "maxDurationHours": 10,
+      "minDurationMinutes": 0,
+      "maxDurationMinutes": 0
+    },
+    {
+      "id": 6,
+      "name": "Apex Legends",
+      "appIds": [1172470],
+      "minDurationHours": 5,
+      "maxDurationHours": 8,
+      "minDurationMinutes": 0,
+      "maxDurationMinutes": 0
+    },
+    {
+      "id": 7,
+      "name": "Warframe",
+      "appIds": [230410],
+      "minDurationHours": 4,
+      "maxDurationHours": 7,
+      "minDurationMinutes": 0,
+      "maxDurationMinutes": 0
+    },
+    {
+      "id": 8,
+      "name": "Destiny 2",
+      "appIds": [1085660],
+      "minDurationHours": 3,
+      "maxDurationHours": 6,
+      "minDurationMinutes": 0,
+      "maxDurationMinutes": 0
+    },
+    {
+      "id": 9,
+      "name": "Elden Ring",
+      "appIds": [1245620],
+      "minDurationHours": 2,
+      "maxDurationHours": 5,
+      "minDurationMinutes": 0,
+      "maxDurationMinutes": 0
+    }
+  ],
+  "personaRotation": {
+    "enabled": true,
+    "intervalHours": 4,
+    "states": [1, 3, 5]
+  }
+}
