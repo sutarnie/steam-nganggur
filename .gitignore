@@ -1,0 +1,4 @@
+*.bak
+config.json
+settings.json
+.env
